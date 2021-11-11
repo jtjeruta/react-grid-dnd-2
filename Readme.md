@@ -1,4 +1,8 @@
-<div align="center">
+# react-grid-dnd-2  
+
+this is a fork of react-grid-dnd by benmcmahen (https://github.com/bmcmahen/react-grid-dnd)
+
+<!-- <div align="center">
  <img 
     max-width="300px"
     alt="A demo showing views being swiped left and right."
@@ -168,4 +172,4 @@ function App() {
     </GridContextProvider>
   );
 }
-```
+``` -->
